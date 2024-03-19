@@ -2,14 +2,39 @@
 
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
-\usepackage[left=2.50cm, right=2.50cm, top=2.50cm, bottom=2.50cm]{geometry}
+
+\usepackage{amsmath}
+\usepackage{amsfonts}
 \usepackage{graphicx}
 \usepackage{setspace}
+\usepackage{xcolor}
+\usepackage{lipsum} 
+\definecolor{azul}{rgb}{0.14,0.4,0.69}
+\usepackage[left=2.50cm, right=2.50cm, top=2.50cm, bottom=2.50cm]{geometry}
 \usepackage{babel}
 
 \title{tesis}
 \author{Luis Alberto Roman Cruz}
 \begin{document}
-	\include{caratula}
+	
+	\frontmatter
+	\include{caratula}	
+	
+	%Capitulos con chapter, con el * se quita el titulo de capitulo	
+	%Indice General
+	\include{capitulos/indice_general}		
+	\include{capitulos/indice_tablas}	
+	\include{capitulos/indice_figuras}		
+	\include{capitulos/introduccion}
+	
+	\mainmatter	
+	\include{capitulos/problema_de_investigacion}
+	\include{capitulos/marco_teorico}		
+	\include{capitulos/prospectiva_tecnologica}
+	\include{capitulos/cronograma_recursos}
+	\include{capitulos/referencias}
+	
+	\backmatter
+	\include{capitulos/bibliografia}
 	  
 \end{document}

@@ -1,0 +1,21 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\numberline {1}Problema de investigación}{1}{}%
+\contentsline {section}{\numberline {1.1}Ámbito de influencia}{1}{}%
+\contentsline {subsection}{\numberline {1.1.1}ámbito de influencia teórica}{1}{}%
+\contentsline {subsubsection}{Área de dominio}{1}{}%
+\contentsline {subsubsection}{Línea de investigación}{1}{}%
+\contentsline {section}{\numberline {1.2}Planteamiento del problema}{1}{}%
+\contentsline {subsection}{\numberline {1.2.1}Descripción de la situación actual del lugar de intervención}{1}{}%
+\contentsline {subsection}{\numberline {1.2.2}Descripción del problema}{1}{}%
+\contentsline {subsection}{\numberline {1.2.3}Formulación del problema}{1}{}%
+\contentsline {subsection}{\numberline {1.2.4}Objetivos}{1}{}%
+\contentsline {subsubsection}{General}{1}{}%
+\contentsline {subsubsection}{Específicos}{1}{}%
+\contentsline {subsection}{\numberline {1.2.5}Justificación}{1}{}%
+\contentsline {subsection}{\numberline {1.2.6}Alcances y limitaciones}{1}{}%
+\contentsline {chapter}{\numberline {2}Marco Teórico}{2}{}%
+\contentsline {section}{\numberline {2.1}Antecedentes del desarrollo, implementación o transferencia tecnológica}{2}{}%
+\contentsline {section}{\numberline {2.2}Bases teórico - científicas}{2}{}%
+\contentsline {chapter}{\numberline {3}Prospectiva tecnológica}{3}{}%
+\contentsline {section}{\numberline {3.1}Descripción de la propuesta del desarrollo, implementación o transferencia tecnológica, (propuesta tecnología para cumplir los objetivos)}{3}{}%
+\contentsline {section}{\numberline {3.2}Situación esperada, (solución esperada del problema, impacto de solución}{3}{}%
