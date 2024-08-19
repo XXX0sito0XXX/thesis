@@ -26,3 +26,7 @@
 * git remote add origin https://github.com/XXX0sito0XXX/cv.git  (Sirve para subir al repostitorio)
 * git push -u origin master //subir todo los cambios a nuestro repositorio de github
 * git remote -v
+
+
+// Crear una clave ssh para poder subir los respositorios a github
+-  ssh-keygen -t ed25519 -C "betto19.32@gmail.com"
