@@ -22,7 +22,7 @@
 * git checkout nuevarama									(sirve para cambiar de rama)
 
 /// Una vez creado tu usuario y contraseña en github se utilizar este comando para vincular los archivos de tu comptuadora personal al repositorio
-
+* git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY   //clonar un repositorio
 * git remote add origin https://github.com/XXX0sito0XXX/cv.git  (Sirve para subir al repostitorio)
 * git push -u origin master //subir todo los cambios a nuestro repositorio de github
 * git remote -v
