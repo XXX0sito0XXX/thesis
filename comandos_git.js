@@ -29,4 +29,4 @@
 
 
 // Crear una clave ssh para poder subir los respositorios a github
--  ssh-keygen -t ed25519 -C "betto19.32@gmail.com"
+-  ssh-keygen -t rsa -C "betto19.32@gmail.com"
